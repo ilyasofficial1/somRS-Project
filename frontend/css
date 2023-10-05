@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.Cozy-patio-area-with-Puget-Sound-view.-Tacoma,-WA-1-hex { color: #2669BF; }
+.Cozy-patio-area-with-Puget-Sound-view.-Tacoma,-WA-2-hex { color: #57AAF2; }
+.Cozy-patio-area-with-Puget-Sound-view.-Tacoma,-WA-3-hex { color: #77C3F2; }
+.Cozy-patio-area-with-Puget-Sound-view.-Tacoma,-WA-4-hex { color: #A68932; }
+.Cozy-patio-area-with-Puget-Sound-view.-Tacoma,-WA-5-hex { color: #8C471F; }
+
+/* Color Theme Swatches in RGBA */
+.Cozy-patio-area-with-Puget-Sound-view.-Tacoma,-WA-1-rgba { color: rgba(38, 104, 191, 1); }
+.Cozy-patio-area-with-Puget-Sound-view.-Tacoma,-WA-2-rgba { color: rgba(87, 169, 242, 1); }
+.Cozy-patio-area-with-Puget-Sound-view.-Tacoma,-WA-3-rgba { color: rgba(118, 194, 242, 1); }
+.Cozy-patio-area-with-Puget-Sound-view.-Tacoma,-WA-4-rgba { color: rgba(165, 136, 49, 1); }
+.Cozy-patio-area-with-Puget-Sound-view.-Tacoma,-WA-5-rgba { color: rgba(140, 70, 30, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Cozy-patio-area-with-Puget-Sound-view.-Tacoma,-WA-1-hsla { color: hsla(213, 66, 44, 1); }
+.Cozy-patio-area-with-Puget-Sound-view.-Tacoma,-WA-2-hsla { color: hsla(208, 85, 64, 1); }
+.Cozy-patio-area-with-Puget-Sound-view.-Tacoma,-WA-3-hsla { color: hsla(202, 82, 70, 1); }
+.Cozy-patio-area-with-Puget-Sound-view.-Tacoma,-WA-4-hsla { color: hsla(44, 53, 42, 1); }
+.Cozy-patio-area-with-Puget-Sound-view.-Tacoma,-WA-5-hsla { color: hsla(22, 63, 33, 1); }
